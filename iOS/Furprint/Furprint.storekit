@@ -1,0 +1,40 @@
+{
+  "identifier": "storekit-config",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {},
+  "subscriptionGroups": [
+    {
+      "id": "1",
+      "localizations": [],
+      "name": "Furprint Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "1.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "sub1",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Annual anniversary reminders with photo memory recap",
+              "displayName": "Furprint Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "furprint_pro_reminders",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Furprint Pro Monthly",
+          "subscriptionGroupID": "1",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
